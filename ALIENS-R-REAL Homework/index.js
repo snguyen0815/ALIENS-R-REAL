@@ -1,6 +1,6 @@
-// ############################
+// #############################
 // User:Stanley Nguyen
-// ############################
+// #############################
 
 var $tbody = document.querySelector("tbody");
 var $dateInput = document.querySelector("#datetime");
